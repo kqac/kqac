@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api?username=kqac&show_icons=true&theme=panda"
+  alt="kqac"/>
+</p>
 
-<!--
-**kqac/kqac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kqac.visitor-badge&left_color=%282A36&right_color=%23FF6E96" alt="Visitor Badge"/>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1108114275064610857)](https://discord.com/users/1108114275064610857)
+</p>
