@@ -9,5 +9,7 @@
 </p>
 
 <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1108114275064610857)](https://discord.com/users/1108114275064610857)
+  <a href="https://discord.com/users/1108114275064610857">
+    <img src="https://lanyard.cnrad.dev/api/1108114275064610857?idleMessage=in%20the%20studio%20and%20im%20eatin%20cheerios" alt="Discord Presence"/>
+  </a>
 </p>
